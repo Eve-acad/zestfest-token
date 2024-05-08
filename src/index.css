@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient-blue {
+  background: linear-gradient(0deg, #1e2890 0%, #474be8 100%);
+}
+
+.gradient-blue:hover {
+  background: white;
+}
+
+.gradient-blue-light {
+  background: linear-gradient(72.61deg, #2b3df0 22.63%, #358cff 84.67%);
+}
+
+.gradient-dark-blue {
+  background: linear-gradient(133.02deg, #131314 0.36%, #031355 92.88%);
+}
+
+body {
+  font-family:
+    Source Sans Pro,
+    sans-serif;
+}
