@@ -70,7 +70,7 @@
       <div class="font-bold text-2xl">Speakers</div>
       <img
         class="rounded-full w-40 h-40"
-        src="@\assets\lebron.jpg"
+        src="@/assets/lebron.jpg/"
       />
       <div>
         <div class="text-center font-bold">Zesty Lebron</div>
