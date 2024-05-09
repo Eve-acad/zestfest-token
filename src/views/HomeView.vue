@@ -60,6 +60,7 @@
         </div>
         <button
           class="mx-auto text-sm px-4 my-8 w-fit gradient-blue-light text-white rounded-md py-3 hover:border-[#3040E8] font-semibold border"
+          href=""
         >
           SAVE MY SPOT
         </button>
@@ -69,7 +70,7 @@
       <div class="font-bold text-2xl">Speakers</div>
       <img
         class="rounded-full w-40 h-40"
-        src="C:\Users\coc12\OneDrive\Desktop\Files\Web 3.0 DeFi\Token Projects\$ZEST\src\assets\lebron.jpg"
+        src="@\assets\lebron.jpg"
       />
       <div>
         <div class="text-center font-bold">Zesty Lebron</div>

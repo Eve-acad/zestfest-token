@@ -3,13 +3,15 @@
     <img src="@/assets/logo.svg" />
     <div class="hidden xl:flex text-sm items-center">
       <div class="flex gap-8">
-        <div class="flex gap-1.5">Chart </div>
-        <div class="flex gap-1.5">Telegram </div>
-        <div class="flex gap-1.5">Telegram </div>
+        <a href=""><div class="flex gap-1.5">Chart </div></a>
+        <a href=""><div class="flex gap-1.5">Telegram </div></a>
+        <a href=""><div class="flex gap-1.5">Solscan </div></a>
+
       </div>
 
       <button
         class="mx-5 px-4 text-xs gradient-blue text-white rounded-[4px] py-3 hover:border-[#3040E8] font-semibold border hover:text-[#1829d9]"
+        href=""
       >
         Book Now
       </button>
