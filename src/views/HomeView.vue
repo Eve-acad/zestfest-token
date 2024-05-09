@@ -60,7 +60,7 @@
         </div>
         <button
           class="mx-auto text-sm px-4 my-8 w-fit gradient-blue-light text-white rounded-md py-3 hover:border-[#3040E8] font-semibold border"
-          href=""
+          href="https://www.pump.fun/board"
         >
           SAVE MY SPOT
         </button>
