@@ -8,7 +8,7 @@
         <a href="https://solscan.io/token/"><div class="flex gap-1.5">Solscan </div></a>
 
       </div>
-        <a         href="https://www.pump.fun/board">
+        <a href="https://www.pump.fun/board">
       <button
         class="mx-5 px-4 text-xs gradient-blue text-white rounded-[4px] py-3 hover:border-[#3040E8] font-semibold border hover:text-[#1829d9]"
       >
