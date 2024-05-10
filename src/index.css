@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .gradient-blue {
-  background: linear-gradient(0deg, #1e2890 0%, #474be8 100%);
+  background: linear-gradient(0deg, #901e8c 0%, #c547e8 100%);
 }
 
 .gradient-blue:hover {
@@ -11,15 +11,30 @@
 }
 
 .gradient-blue-light {
-  background: linear-gradient(72.61deg, #2b3df0 22.63%, #358cff 84.67%);
+  background: linear-gradient(72.61deg, #cc00ff 22.63%, #d900ff 84.67%);
 }
 
 .gradient-dark-blue {
-  background: linear-gradient(133.02deg, #131314 0.36%, #031355 92.88%);
+  background: linear-gradient(133.02deg, #472051 0.36%, #a80dc4 92.88%);
 }
 
 body {
   font-family:
     Source Sans Pro,
     sans-serif;
+}
+
+@font-face {
+  font-family: "Penis";
+  src: url('./assets/Penis.ttf');
+}
+
+.zest {
+  font-family: Penis;
+  font-size: 50px;
+}
+
+video {
+  display: block;
+  margin: 0 auto;
 }
