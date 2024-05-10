@@ -58,13 +58,13 @@
           </div>
 
         </div>
-        <a href="https://www.pump.fun/board">
-        <button
+
+        <button 
           class="mx-auto text-sm px-4 my-8 w-fit gradient-blue-light text-white rounded-md py-3 hover:border-[#3040E8] font-semibold border"
           
-        >
-          SAVE MY SPOT
-        </button></a>
+        >         <a href="https://www.pump.fun/board">
+          SAVE MY SPOT</a>
+        </button>
       </div>
     </div>
     <div class="xl:container px-6 flex flex-col items-center gap-6 pb-24 min-w-max mx-auto">
