@@ -4,7 +4,7 @@
     <div class="hidden xl:flex text-sm items-center">
       <div class="flex gap-8">
         <a href="https://dexscreener.com/"><div class="flex gap-1.5">Chart </div></a>
-        <a href="https://t.me/"><div class="flex gap-1.5">Telegram</div></a>
+        <a href="https://t.me/zestfestsol"><div class="flex gap-1.5">Telegram</div></a>
         <a href="https://twitter.com/"><div class="flex gap-1.5">Twitter</div></a>
         <a href="https://solscan.io/token/"><div class="flex gap-1.5">Solscan </div></a>
 
