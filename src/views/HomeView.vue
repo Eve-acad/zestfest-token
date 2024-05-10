@@ -13,14 +13,14 @@
           <div>⏰Time: 12.00 pm</div>
         </div>
         <div class="text-justify mt-7">
-          Get ready to spice up your life at ZEST FEST! This isn't just any event; it's a celebration of enthusiasm, energy, and the zestful spirit of the iconic Zesty LeBron! Whether you're a fan of exhilarating talks, engaging discussions, or just looking to infuse a little zest into your routine, this fest is where you need to be.
+          Get ready to spice up your life at ZEST FEST! This isn't just any event; it's a celebration of enthusiasm, energy, and the zestful spirit of the iconic Zesty LeBron and Drake! Whether you're a fan of exhilarating talks, engaging discussions, or just looking to infuse a little zest into your routine, this fest is where you need to be.
         </div>
         <div class="mt-6 text-justify">
           Why Attend ZEST FEST?
         </div>
         <div class="my-6">You will learn:</div>
         <div class="my-6">
-          • <strong>Inspiring Talks:</strong> Dive into a series of invigorating discussions led by Zesty LeBron himself. Explore topics that are as vibrant and dynamic as our speaker's legendary zest for life.
+          • <strong>Inspiring Talks:</strong> Dive into a series of invigorating discussions led by Zesty Drake himself. Explore topics that are as vibrant and dynamic as our speaker's legendary zest for life.
         </div>
         <div class="my-6">
           • <strong>Opportunities:</strong> Mix and mingle with other zest enthusiasts. Who knows? The connections you make here could lead to your next big adventure!
@@ -69,6 +69,15 @@
     </div>
     <div class="xl:container px-6 flex flex-col items-center gap-6 pb-24 min-w-max mx-auto">
       <div class="font-bold text-2xl">Speakers</div>
+      <img
+        class="rounded-full w-40 h-40"
+        src="@/assets/drake.jpg/"
+      />
+      <div>
+        <div class="text-center font-bold">Zesty Drake</div>
+        <div>President, Content Marketing and Beefer, ZEST FEST</div>
+
+      </div>
       <img
         class="rounded-full w-40 h-40"
         src="@/assets/lebron.jpg/"
