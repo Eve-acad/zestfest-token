@@ -72,7 +72,7 @@
     </div>
 
     <div
-      class="xl:container px-6 gap-6 items-center   flex flex-col lg:grid grid-cols-2 mx-auto "
+      class="xl:container px-6 gap-6 items-center   flex flex-col lg:grid grid-cols-2 xl:grid-cols-3 mx-auto "
     >
       <div class="flex flex-col items-center">
         <img class="rounded-full w-40 h-40" src="@/assets/drake.jpg/" />
@@ -119,7 +119,6 @@
 </template>
 
 <script setup lang="ts">
-import InputText from 'primevue/inputtext'
 import { ref } from 'vue'
 import { CircleArrowDown, CircleArrowUp } from 'lucide-vue-next'
 
