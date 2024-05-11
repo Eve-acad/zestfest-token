@@ -65,10 +65,10 @@
       </div>
     </div>
     <div
-      class="font-bold text-2xl xl:container px-6 flex flex-col items-center gap-6 pb-24  mx-auto"
+      class="font-bold xl:container px-6 flex flex-col items-center gap-6 pb-24  mx-auto"
       style="font-size: 50px"
     >
-      Hella niggas are coming btw
+     <div class="text-center">Hella niggas are coming btw</div>  
     </div>
 
     <div
