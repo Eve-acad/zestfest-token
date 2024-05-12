@@ -5,7 +5,7 @@
       <div class="flex gap-8">
         <a href="https://dexscreener.com/"><div class="flex gap-1.5">ZestyChart</div></a>
         <a href="https://t.me/zestfestsol"><div class="flex gap-1.5">ZestyGram</div></a>
-        <a href="https://twitter.com/"><div class="flex gap-1.5">ZesTwitter</div></a>
+        <a href="https://twitter.com/zestfestsolana"><div class="flex gap-1.5">ZesTwitter</div></a>
         <a href="https://solscan.io/token/"><div class="flex gap-1.5">ZestyScan</div></a>
 
       </div>
