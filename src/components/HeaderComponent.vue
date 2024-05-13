@@ -6,7 +6,7 @@
         <a href="https://dexscreener.com/"><div class="flex gap-1.5">ZestScreener</div></a>
         <a href="https://t.me/zestfestsol"><div class="flex gap-1.5">ZestyGram</div></a>
         <a href="https://twitter.com/zestfestsolana"><div class="flex gap-1.5">ZesTwitter</div></a>
-        <a href="https://solscan.io/token/"><div class="flex gap-1.5">ZestyScan</div></a>
+        <a href="https://solscan.io/token/8m8YSa6q3SB7z8yp3ecL13XvkqxFD24p3pb95DmgPo1f"><div class="flex gap-1.5">ZestyScan</div></a>
       </div>
       <a href="https://www.pump.fun/board">
         <button
