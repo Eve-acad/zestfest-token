@@ -3,12 +3,12 @@
     <img src="@/assets/drake.png" style="width: 100px; height: 60px" />
     <div class="hidden xl:flex text-sm items-center">
       <div class="flex gap-8">
-        <a href="https://dexscreener.com/"><div class="flex gap-1.5">ZestScreener</div></a>
+        <a href="https://dexscreener.com/solana/8m8YSa6q3SB7z8yp3ecL13XvkqxFD24p3pb95DmgPo1f"><div class="flex gap-1.5">ZestScreener</div></a>
         <a href="https://t.me/zestfestsol"><div class="flex gap-1.5">ZestyGram</div></a>
         <a href="https://twitter.com/zestfestsolana"><div class="flex gap-1.5">ZesTwitter</div></a>
         <a href="https://solscan.io/token/8m8YSa6q3SB7z8yp3ecL13XvkqxFD24p3pb95DmgPo1f"><div class="flex gap-1.5">ZestyScan</div></a>
       </div>
-      <a href="https://www.pump.fun/board">
+      <a href="https://www.pump.fun/8m8YSa6q3SB7z8yp3ecL13XvkqxFD24p3pb95DmgPo1f">
         <button
           class="zest mx-5 px-4 text-xs gradient-blue text-white rounded-[4px] py-3 hover:border-[#3040E8] border hover:text-[#1829d9]"
           style="font-size: 30px"
