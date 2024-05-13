@@ -13,7 +13,7 @@
           class="zest mx-5 px-4 text-xs gradient-blue text-white rounded-[4px] py-3 hover:border-[#3040E8] border hover:text-[#1829d9]"
           style="font-size: 30px"
         >
-          I WANT TO COME TO ZEST
+          I WANT TO COME TO ZEST FEST
         </button></a
       >
     </div>
