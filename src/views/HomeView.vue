@@ -8,9 +8,10 @@
           The most TALKED ABOUT zesty nigga linkup of the year!
         </div>
         <div class="bg-[#c410c4] rounded-lg p-6 border mb-2 mt-8">
-          <div>Date: 8th May 2024</div>
+          <div>Date: 14th May 2024</div>
           <div>Venue: pump.fun</div>
-          <div>Time: Right now!</div>
+          <div>CA: REPLACE AFTER LAUNCH</div>
+          
         </div>
         <div class="text-justify mt-7">
           ZEST FEST 2024 is getting gayer than ever! Get ready to oil up, twerk and edge at ZEST

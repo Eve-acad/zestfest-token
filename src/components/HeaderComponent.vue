@@ -1,9 +1,9 @@
 <template>
   <div class="p-6 2xl:px-40 container xl:mx-auto flex justify-between items-center min-w-full">
-    <img src="@/assets/logo.png" style="width: 100px; height: 60px" />
+    <img src="@/assets/drake.png" style="width: 100px; height: 60px" />
     <div class="hidden xl:flex text-sm items-center">
       <div class="flex gap-8">
-        <a href="https://dexscreener.com/"><div class="flex gap-1.5">ZestyChart</div></a>
+        <a href="https://dexscreener.com/"><div class="flex gap-1.5">ZestScreener</div></a>
         <a href="https://t.me/zestfestsol"><div class="flex gap-1.5">ZestyGram</div></a>
         <a href="https://twitter.com/zestfestsolana"><div class="flex gap-1.5">ZesTwitter</div></a>
         <a href="https://solscan.io/token/"><div class="flex gap-1.5">ZestyScan</div></a>
